@@ -11,6 +11,8 @@
     <modules>
         <module>litespring</module>
         <module>base</module>
+        <module>designPattern</module>
+        <module>concurrent</module>
     </modules>
     <dependencyManagement>
         <dependencies>
